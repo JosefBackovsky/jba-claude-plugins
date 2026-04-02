@@ -1,0 +1,16 @@
+{
+  "name": "jba-plugins",
+  "owner": {
+    "name": "Josef Backovsky"
+  },
+  "metadata": {
+    "description": "Josef Backovsky's personal Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "commit-simple",
+      "source": "./plugins/commit-simple",
+      "description": "Quick commit workflow with conventional commits style messages"
+    }
+  ]
+}

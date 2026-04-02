@@ -1,0 +1,8 @@
+{
+  "name": "commit-simple",
+  "description": "Quick commit workflow with conventional commits style messages",
+  "version": "1.0.0",
+  "author": {
+    "name": "Josef Backovsky"
+  }
+}
